@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p6DIxsesi3eJNPwFwvMw0MeM5LkSGoPW?usp=sharing)	[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jason9693/UCK-GPT2/issues)	![GitHub](https://img.shields.io/github/license/jason9693/UCK-GPT2)
 
-##대학 커뮤니티 게시글 생성기
+## 대학 커뮤니티 게시글 생성기
 
 SKT-AI에서 공개한 [KoGPT2](https://github.com/SKT-AI/KoGPT2) 모델을 파인튜닝하여 대학 커뮤니티 게시글을 생성하는 모델입니다. 총 에브리타임, 캠퍼스픽 데이터 22만개를 이용해서 학습을 진행했으며, 학습에는 대략 **3일**정도 소요되었습니다.
 
