@@ -1,6 +1,6 @@
 # UCK-GPT2 ( University Community KoGPT2 )
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p6DIxsesi3eJNPwFwvMw0MeM5LkSGoPW?usp=sharing)[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jason9693/UCK-GPT2/issues)![GitHub](https://img.shields.io/github/license/jason9693/UCK-GPT2)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p6DIxsesi3eJNPwFwvMw0MeM5LkSGoPW?usp=sharing)	[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jason9693/UCK-GPT2/issues)	![GitHub](https://img.shields.io/github/license/jason9693/UCK-GPT2)
 
 ##대학 커뮤니티 게시글 생성기
 
