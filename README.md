@@ -51,6 +51,46 @@ SKT-AI에서 공개한 [KoGPT2](https://github.com/SKT-AI/KoGPT2) 모델을 파�
 1. 자신이 학습한 모델로 생성하기 :  `inference.ipynb` 파일을 colab으로 실행시키면 됩니다.
 2. [레포 소유자](https://github.com/jason9693) 가 학습한 모델로 생성하기 : 제목 아래에 있는 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) 뱃지를 클릭해 주세요.
 
+## Generated Samples
+
+![screenshot 17](README.assets/screenshot 17-5138823.png)
+
+![screenshot 18](README.assets/screenshot 18-5138823.png)
+
+![screenshot 19](README.assets/screenshot 19-5138823.png)
+
+![screenshot 20](README.assets/screenshot 20-5138823.png)
+
+![screenshot 21](README.assets/screenshot 21-5138823.png)
+
+![screenshot 10](README.assets/screenshot 10-5138823.png)
+
+![screenshot 11](README.assets/screenshot 11-5138823.png)
+
+![screenshot 12](README.assets/screenshot 12-5138823.png)
+
+![screenshot 13](README.assets/screenshot 13-5138823.png)
+
+![screenshot 14](README.assets/screenshot 14-5138823.png)
+
+![screenshot 15](README.assets/screenshot 15-5138823.png)
+
+![screenshot 16](README.assets/screenshot 16-5138823.png)
+
+![screenshot 3](README.assets/screenshot 3-5138823.png)
+
+![screenshot 4](README.assets/screenshot 4-5138823.png)
+
+![screenshot 5](README.assets/screenshot 5-5138823.png)
+
+![screenshot 6](README.assets/screenshot 6-5138823.png)
+
+![screenshot 7](README.assets/screenshot 7-5138823.png)
+
+![screenshot 8](README.assets/screenshot 8-5138823.png)
+
+![screenshot 9](README.assets/screenshot 9-5138823.png)
+
 ## License
 
 ```
