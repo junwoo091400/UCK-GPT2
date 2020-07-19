@@ -53,43 +53,43 @@ SKT-AI에서 공개한 [KoGPT2](https://github.com/SKT-AI/KoGPT2) 모델을 파�
 
 ## Generated Samples
 
-![screenshot 17](README.assets/screenshot 17-5138823.png)
+![17](README.assets/screenshot17-5138823.png)
 
-![screenshot 18](README.assets/screenshot 18-5138823.png)
+![18](README.assets/screenshot18-5138823.png)
 
-![screenshot 19](README.assets/screenshot 19-5138823.png)
+![19](README.assets/screenshot19-5138823.png)
 
-![screenshot 20](README.assets/screenshot 20-5138823.png)
+![20](README.assets/screenshot20-5138823.png)
 
-![screenshot 21](README.assets/screenshot 21-5138823.png)
+![21](README.assets/screenshot21-5138823.png)
 
-![screenshot 10](README.assets/screenshot 10-5138823.png)
+![10](README.assets/screenshot10-5138823.png)
 
-![screenshot 11](README.assets/screenshot 11-5138823.png)
+![11](README.assets/screenshot11-5138823.png)
 
-![screenshot 12](README.assets/screenshot 12-5138823.png)
+![12](README.assets/screenshot12-5138823.png)
 
-![screenshot 13](README.assets/screenshot 13-5138823.png)
+![13](README.assets/screenshot13-5138823.png)
 
-![screenshot 14](README.assets/screenshot 14-5138823.png)
+![14](README.assets/screenshot14-5138823.png)
 
-![screenshot 15](README.assets/screenshot 15-5138823.png)
+![15](README.assets/screenshot15-5138823.png)
 
-![screenshot 16](README.assets/screenshot 16-5138823.png)
+![16](README.assets/screenshot16-5138823.png)
 
-![screenshot 3](README.assets/screenshot 3-5138823.png)
+![3](README.assets/screenshot3-5138823.png)
 
-![screenshot 4](README.assets/screenshot 4-5138823.png)
+![4](README.assets/screenshot4-5138823.png)
 
-![screenshot 5](README.assets/screenshot 5-5138823.png)
+![5](README.assets/screenshot5-5138823.png)
 
-![screenshot 6](README.assets/screenshot 6-5138823.png)
+![6](README.assets/screenshot6-5138823.png)
 
-![screenshot 7](README.assets/screenshot 7-5138823.png)
+![7](README.assets/screenshot7-5138823.png)
 
-![screenshot 8](README.assets/screenshot 8-5138823.png)
+![8](README.assets/screenshot8-5138823.png)
 
-![screenshot 9](README.assets/screenshot 9-5138823.png)
+![9](README.assets/screenshot9-5138823.png)
 
 ## License
 
