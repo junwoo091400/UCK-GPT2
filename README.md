@@ -24,11 +24,11 @@ SKT-AI에서 공개한 [KoGPT2](https://github.com/SKT-AI/KoGPT2) 모델을 파�
 
 커뮤니티 데이터의 특성상 url이나 개행 등등 특수한 텍스트가 많아서 이를 무시하기 보다는 **문장의 어느 위치에 들어갈 것인가** 를 학습해서 템플릿 형식으로 학습하도록 유도하였습니다.
 
-1. <unused0> : URL
+1. \<unused0\> : URL
 
-2. <unused1> : LINK (오픈카톡방 등등)
+2. \<unused1\> : LINK (오픈카톡방 등등)
 
-3. <unused2> : 개행 
+3. \<unused2\> : 개행 
 
 ## 데이터 전처리
 
